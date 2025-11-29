@@ -4,4 +4,4 @@ c=(input("Enter the no"))
 d=(a+b+c)
 e=d
 print(e)
-tyyiuoio
+
