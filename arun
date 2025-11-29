@@ -2,4 +2,6 @@ a=(input("Enter the no"))
 b=(input("Enter the no"))
 c=(input("Enter the no"))
 d=(a+b+c)
-print(d)
+e=d
+print(e)
+tyyiuoio
